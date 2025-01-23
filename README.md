@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mark Kamau
-### A passionate frontend developer from Kenya. Currently living and open to work in Germany
+### I’m a passionate Frontend Developer from Kenya, currently based in Germany and open to new opportunities. I’m always eager to learn and build impactful projects, especially those that bridge technology and real-world problems.
 
 - 🔭 I’m currently working on [Medical Tracking to help assist long term ill patients in surveying their medication intake](https://github.com/markxkamau/Medical_Track)
 - 🌱 I’m currently learning **JUnit Testing, Firebase, Data Tracking, TensorFlow, Qiskit**
